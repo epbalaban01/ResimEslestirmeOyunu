@@ -1,4 +1,6 @@
 # Resim Eşleştirme Oyunu 
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/ResimEslestirmeOyunu/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
 Resimleri eşleştirmek için basit bir program yaptım. Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
